@@ -1,6 +1,6 @@
-[![MasterHead](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)]
+![MasterHead](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)
 <h1 align="center">Hey there 😁I'm ArticFox93</h1>
-<h3 align="center">A intermediate python developer</h3>
+<h3 align="center">An intermediate python developer</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/aizen-third-eye-hw7trs5kxl1o12rn.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=articfox93&label=Profile%20views&color=0e75b6&style=flat" alt="articfox93" /> </p>
@@ -20,8 +20,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/articfox"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="articfox" /></a></p><br><br>
 
+<h3 align="left">Stats and others:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=articfox93&show_icons=true&locale=en&layout=compact" alt="articfox93" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=articfox93&show_icons=true&locale=en" alt="articfox93" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=articfox93&show_icons=true&locale=en" alt="articfox93" width="300" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=articfox93&" alt="articfox93" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=articfox93&" alt="articfox93" width="300" /></p>
