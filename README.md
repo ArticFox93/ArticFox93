@@ -1,11 +1,11 @@
 ![MasterHead](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)
-<h1 align="center">Hey there 😁I'm ArticFox93</h1>
-<h3 align="center">An intermediate python developer</h3>
+<h1 align="center">Hey there, I'm ArticFox93</h1>
+<h3 align="center">A python developer</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/aizen-third-eye-hw7trs5kxl1o12rn.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=articfox93&label=Profile%20views&color=0e75b6&style=flat" alt="articfox93" /> </p>
 
-- 🌱 I’m currently learning **python, c#**
+- 🌱 I’m currently learning **python, c# and little bit of webdev**
 
 - ⚡ Fun fact **I got into programming, because of the urge to make a discord nuker bot**
 
